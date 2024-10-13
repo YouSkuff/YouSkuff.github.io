@@ -1,0 +1,17 @@
+body {
+	color:white;
+	background-color:black;
+	font-family:monospace;
+}
+a {
+	color:yellow;
+	text-decoration:none;
+}
+
+.center {
+	margin-left:45%;
+	margin-top:45%;
+}
+.Des {
+	text-align:center;
+}
